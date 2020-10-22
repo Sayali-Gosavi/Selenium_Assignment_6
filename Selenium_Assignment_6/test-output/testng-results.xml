@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="25" started-at="2020-10-22T05:53:46Z" finished-at="2020-10-22T05:53:46Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="25" started-at="2020-10-22T05:53:46Z" finished-at="2020-10-22T05:53:46Z">
+      <class name="Assignment.DataProvider_annotation">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:Assignment.DataProvider_annotation@47555311]" name="beforeTest" is-config="true" duration-ms="5" started-at="2020-10-22T11:23:46Z" finished-at="2020-10-22T11:23:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="f(java.lang.Integer, java.lang.String, java.lang.String)[pri:0, instance:Assignment.DataProvider_annotation@47555311]" name="f" duration-ms="3" started-at="2020-10-22T11:23:46Z" data-provider="details" finished-at="2020-10-22T11:23:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Satyam]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Gosavi]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="f(java.lang.Integer, java.lang.String, java.lang.String)[pri:0, instance:Assignment.DataProvider_annotation@47555311]" name="f" duration-ms="0" started-at="2020-10-22T11:23:46Z" data-provider="details" finished-at="2020-10-22T11:23:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Shivam]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Gosavi]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:Assignment.DataProvider_annotation@47555311]" name="afterTest" is-config="true" duration-ms="0" started-at="2020-10-22T11:23:46Z" finished-at="2020-10-22T11:23:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- Assignment.DataProvider_annotation -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
